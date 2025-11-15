@@ -1,0 +1,10 @@
+import pygame
+playerim=pygame.image.load('image/player/player.png').convert_alpha()
+pbullim=pygame.image.load('image/player/player bullet.pmg').convert_alpha()
+enemim=pygame.image.load('image/enemy/enemy.png').convert_alpha()
+ebullim=pygame.image.load('image/enemy/enemy bullet.png').convert_alpha()
+brickim=pygame.image.load('image/blocks/brick block.png').convert_alpha()
+waterim=pygame.image.load('image/blocks/water block.png').convert_alpha()
+flagim=pygame.image.load('image/blocks/flag.png').convert_alpha()
+bushim=pygame.image.load('image/blocks/bush block.png').convert_alpha()
+ironim=pygame.image.load('image/blocks/iron block.png').convert_alpha()
